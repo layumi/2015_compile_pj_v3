@@ -9,6 +9,6 @@ build an abstract tree for minijava
 3.Run －>Debug 
 －> Line Ending select Unix（LF）
 －> StartRule select compilationUnit
-－> File select java file
+－> File select java file 
 
-4. OK! check AST & PraseTree
+OK! check AST & PraseTree
