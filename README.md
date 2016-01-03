@@ -1,11 +1,14 @@
-2015编译
-MiniJava前端
+#2015 compilation class 
+build an abstract tree for minijava 
 
-使用方法：
-1.用antlerwork 打开 Java.g
-2.菜单中选择 Generate －> Generate Code 生成可执行文件
-3.选择Run －>Debug 
-－> Line Ending 选择 Unix（LF）
-－> StartRule 选择 compilationUnit
-－> File 选择java文件
+#Usage
+1.use antlerwork open Java.g
+
+2.Generate －> Generate Code 
+
+3.Run －>Debug 
+－> Line Ending select Unix（LF）
+－> StartRule select compilationUnit
+－> File select java file
+
 4. OK! check AST & PraseTree
